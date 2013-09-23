@@ -13,3 +13,7 @@ c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Hom
 c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\puppy_left.xnb
 c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\puppy_right.xnb
 c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\EECS481Homework2.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\EECS481Homework2.application
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\obj\x86\Debug\EECS481Homework2.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\obj\x86\Debug\EECS481Homework2.application
