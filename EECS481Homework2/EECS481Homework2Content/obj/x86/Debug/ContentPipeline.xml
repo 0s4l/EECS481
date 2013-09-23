@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>front.png</Source>
+      <Name>front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\front.xnb</Output>
+      <Time>2013-09-22T14:20:11.9169704-04:00</Time>
+    </Item>
+    <Item>
+      <Source>left.png</Source>
+      <Name>left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\left.xnb</Output>
+      <Time>2013-09-22T14:20:11.9249709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>right.png</Source>
+      <Name>right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\right.xnb</Output>
+      <Time>2013-09-22T14:20:11.9289711-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-09-22T18:45:34.1235661-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cake.png</Source>
+      <Name>cake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\cake.xnb</Output>
+      <Time>2013-09-22T20:57:56.3022539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>puppy_front.png</Source>
+      <Name>puppy_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\puppy_front.xnb</Output>
+      <Time>2013-09-22T21:18:05.3054049-04:00</Time>
+    </Item>
+    <Item>
+      <Source>puppy_left.png</Source>
+      <Name>puppy_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\puppy_left.xnb</Output>
+      <Time>2013-09-22T21:16:56.6984808-04:00</Time>
+    </Item>
+    <Item>
+      <Source>puppy_right.png</Source>
+      <Name>puppy_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\puppy_right.xnb</Output>
+      <Time>2013-09-22T21:16:56.7084814-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.png</Source>
+      <Name>spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\spaceship.xnb</Output>
+      <Time>2013-09-22T21:06:06.8263103-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2Content\</RootDirectory>
+      <LoggerRootDirectory>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\owner\documents\visual studio 2010\Projects\EECS481Homework2\EECS481Homework2\EECS481Homework2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-22T13:43:00.1503207-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

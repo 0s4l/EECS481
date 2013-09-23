@@ -1,0 +1,9 @@
+Content\front.xnb
+Content\left.xnb
+Content\right.xnb
+Content\SpriteFont1.xnb
+Content\cake.xnb
+Content\puppy_front.xnb
+Content\puppy_left.xnb
+Content\puppy_right.xnb
+Content\spaceship.xnb
